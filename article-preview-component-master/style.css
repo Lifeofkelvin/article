@@ -28,6 +28,7 @@ body {
 .left-img {
     width: 300px;
     border-radius: 10px 0px 0px 10px;
+    height: 100%;
 }
 
 .container {
